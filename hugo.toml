@@ -1,0 +1,7 @@
+baseURL = 'https://blog.edvi.ai/'
+languageCode = 'en-us'
+title = 'Edvi.ai Blog'
+theme = 'novela'
+
+pygmentsstyle = 'monokai'
+paginate = 6
