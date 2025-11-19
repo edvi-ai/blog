@@ -58,7 +58,7 @@ You're good to go!
 
 ### Logo
 
-Override `/themes/novela/layouts/partials/icons/ui/logo.html` with your own file at `/layouts/partials/icons/ui/logo.html`; include your logo in SVG format for desktop and mobile formats. 
+Override `/themes/novela/layouts/partials/icons/ui/logo.html` with your own file at `/layouts/partials/icons/ui/logo.html`; include your logo in SVG format for desktop and mobile formats.
 
 Novela supports light and dark mode. To have your logo respond in kind, add `class="change-fill"` to the svg path(s).
 
@@ -106,6 +106,7 @@ social:
 ```
 
 #### Assigning authors to posts.
+
 Ad the name of the author to the "authors" field:
 
 ```yaml
@@ -113,9 +114,10 @@ authors:
   - Dennis Brotzky
   - Thiago Costa
 ```
+
 ### Newsletter CTA
 
-This theme includes a shortcode for a newsletter callout form that you can add to any page. 
+This theme includes a shortcode for a newsletter callout form that you can add to any page.
 It uses [formspree.io](//formspree.io/) as proxy to send the actual email. Each month, visitors can send you up to one thousand emails without incurring extra charges. Visit the Formspree site to get get going add your Formspree email to your shortcode like this:
 
 ```

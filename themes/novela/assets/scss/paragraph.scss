@@ -6,7 +6,7 @@ p{
     -webkit-transition: var(--color-mode-transition);
     -o-transition: var(--color-mode-transition);
     transition: var(--color-mode-transition);
-    margin: 0 auto 35px;
+    margin: 0 auto 18px;
     width: 100%;
     max-width: 680px;
 }
@@ -26,7 +26,7 @@ p b {
 @media screen and (max-width: 735px){
     p{
         max-width: 486px;
-        margin: 0 auto 25px;
+        margin: 0 auto 13px;
     }
 }
 

@@ -4,11 +4,25 @@ hr{
     max-width: 680px;
     margin: 50px auto;
     border: 0;
-    height: 14.36px;
-    background-repeat: repeat-x;
+    height: auto;
+    background: none;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
-    background-position: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 0 16px;
+}
+
+hr::before {
+    content: '';
+    display: inline-block;
+    width: 3px;
+    height: 3px;
+    background-color: #000000;
+    border-radius: 50%;
+    box-shadow: 20px 0 0 #000000, 40px 0 0 #000000;
 }
 
 @media screen and (max-width: 1070px){
@@ -29,4 +43,53 @@ hr{
     hr{
         padding: 0 20px;
     }
+}
+
+/* Custom horizontal rule separator styles */
+.ac {
+    display: flex;
+}
+
+.ci {
+    justify-content: center;
+}
+
+.nz {
+    margin-top: 16px;
+}
+
+.oa {
+    margin-bottom: 16px;
+}
+
+.ob {
+    padding-top: 16px;
+}
+
+.oc {
+    padding-bottom: 16px;
+}
+
+.bn {
+    display: inline-block;
+}
+
+.by {
+    border-radius: 50%;
+}
+
+.od {
+    background-color: #000000;
+}
+
+.oe {
+    height: 3px;
+}
+
+.of {
+    width: 3px;
+}
+
+.og {
+    margin-right: 20px;
 }

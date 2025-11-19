@@ -2,6 +2,7 @@ ul{
     list-style: none;
     counter-reset: list;
     color: var(--articleText);
+    font-family: var(--sanserif);
     position: relative;
     padding: 15px 0 30px 30px;
     -webkit-transition: var(--color-mode-transition);
@@ -88,6 +89,7 @@ ol{
     list-style: none;
     counter-reset: list;
     color: var(--articleText);
+    font-family: var(--sanserif);
     position: relative;
     padding: 15px 0 30px 30px;
     margin: 0 auto;
@@ -155,11 +157,11 @@ ol li::before {
     color: var(--articleText);
     counter-increment: list;
     content: counter(list) ".";
-    font-weight: 600;
+    font-weight: normal;
     position: absolute;
     left: -3rem;
     top: -0.3rem;
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 @media screen and (max-width: 735px){

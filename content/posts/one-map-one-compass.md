@@ -45,7 +45,7 @@ The need of the hour was a virtual map and a compass.
 Thankfully, two PhD students dared to tackle this problem in 1998, and Google was born.  
 The first trustworthy map and a compass for the virtual world.
 
-![Photo by Christian Wiediger on Unsplash](/images/one-map-one-compass/1.jpg)
+{{< imagecaption image="/images/one-map-one-compass/1.jpg" alt="Description" caption="Photo by Christian Wiediger on Unsplash" width="600px"  >}}
 
 Suddenly, the "website" from another part of the world was merely a search query and a click away. All the peasants could jump in and travel exactly like the pro explorers.
 
@@ -70,7 +70,7 @@ And there was something just around the corner.
 
 ---
 
-![Photo by ilgmyzin on Unsplash](/images/one-map-one-compass/2.jpg)
+{{< imagecaption image="/images/one-map-one-compass/2.jpg" alt="Description" caption="Photo by Christian ilgmyzin on Unsplash" width="600px"  >}}
 
 December 2022: The border between the old world and the new – the launch of ChatGPT.
 
@@ -102,7 +102,7 @@ Or merely minutes with an AI Agent, if it is specifically built for this purpose
 
 Now, imagine a student wants to do their studies abroad. The normal way of doing research almost breaks them even before they set foot in a new country.
 
-So, is there a purpose-built map and a compass for enabling global educational mobility?
+_So, is there a purpose-built map and a compass for enabling global educational mobility?_
 
 The answer is yes.
 
@@ -110,7 +110,7 @@ The answer is yes.
 
 ## Edvi: One Map, One Compass for International Students
 
-![Image Copyright: Edvi](/images/one-map-one-compass/3.jpg)
+{{< imagecaption image="/images/one-map-one-compass/3.png" alt="Description" caption="Image Copyright: Edvi.ai" width="300px"  >}}
 
 A student trying to apply to a university abroad undergoes an immense load.  
 There isn't a shortage of information. There is too much of it.
@@ -222,9 +222,9 @@ Students today deserve clarity.
 
 They deserve a guide that doesn't drown them in options but helps them cross the sea of uncertainty with precision.
 
-Edvi is that guide.  
-The working map.  
-The compass that stays steady.
+- Edvi is that guide.
+- The working map.
+- The compass that stays steady.
 
 Global education is no longer gated by geography. It’s gated by comprehension.
 
