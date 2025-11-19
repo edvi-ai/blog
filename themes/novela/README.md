@@ -32,7 +32,7 @@ theme = "github.com/forestryio/hugo-theme-novela"
 
 paginate = 6
 
-[social]
+[params.social]
 twitter= "https://twitter.com/forestryio"
 github= "https://github.com/forestryio/novela-hugo-starter"
 linkedin= "https://www.linkedin.com/company/forestry.io"

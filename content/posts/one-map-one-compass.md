@@ -8,9 +8,8 @@ hero: "/images/one-map-one-compass/hero.jpg"
 ---
 
 # One Map, One Compass
-## Is Enabling Global Educational Mobility for Millions of Students Possible?
 
-![Photo by Denise Jans on Unsplash](/images/one-map-one-compass/hero.jpg)
+## Is Enabling Global Educational Mobility for Millions of Students Possible?
 
 The earliest European maps were about ambition and curiosity – to explore what lay beyond the horizons.
 
@@ -143,8 +142,8 @@ Where most tools and portals treat the application process as a checklist, Edvi 
 
 It has only 3 simple steps:
 
-1. Upload documents  
-2. Search and shortlist intelligently recommended best-matched programs for your profile  
+1. Upload documents
+2. Search and shortlist intelligently recommended best-matched programs for your profile
 3. Apply to any university anywhere in the world (Currently supported country is Germany; more added rapidly)
 
 That is it.
