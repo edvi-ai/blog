@@ -7,10 +7,6 @@ type: "post"
 hero: "/images/one-map-one-compass/hero.jpg"
 ---
 
-# One Map, One Compass
-
-## Is Enabling Global Educational Mobility for Millions of Students Possible?
-
 The earliest European maps were about ambition and curiosity – to explore what lay beyond the horizons.
 
 But there was a problem.

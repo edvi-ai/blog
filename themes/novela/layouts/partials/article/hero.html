@@ -3,11 +3,7 @@
         <header class="article-header">
             <h1 class="article-hero-heading">{{ .Page.Params.Title }}</h1>
             <div class="article-hero-subtitle">
-                <div class="article-meta">
-                    {{ partial "article/authors.html" . }}
-                    {{ .Page.Date.Format "January 2, 2006" }}
-                    • {{ .ReadingTime }} min read
-                </div>
+                <p>{{ .Page.Params.Description }}</p>
             </div>
         </header>
         {{ with .Page.Params.hero }}
