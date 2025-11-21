@@ -1,6 +1,6 @@
 ---
 title: "You Can Apply to 10 Universities and Still Get Rejected by All of Them"
-date: 2025-10-10T10:00:00+01:00
+date: 2025-11-10T10:00:00+01:00
 description: "Avoid these basic mistakes"
 tags: ["germany", "admissions", "applications", "students"]
 type: "post"
