@@ -4,7 +4,7 @@ date: 2025-11-28T10:00:00+01:00
 description: "And how Edvi helps you get the best ones!"
 tags: ["education", "scholarships", "germany", "international students"]
 type: "post"
-hero: "/images/a-clear-guide-to-scholarships-in-germany-2026/hero.jpg"
+hero: "/images/scholarships-germany-2026/hero.jpg"
 ---
 
 Scholarships in Germany work differently from other countries. Firstly, because compared to countries like the US or the UK, the tuition is already very low.
@@ -25,7 +25,7 @@ Each has its own rules, deadlines, and goals.
 
 ## DAAD: the main source for international funding
 
-{{< imagecaption image="/images/scholarships-germany-2026/1.jpg" alt="Description" caption="Photo by Bram. on Unsplash" width="600px" >}}
+{{< imagecaption image="/images/scholarships-germany-2026/1.jpg" alt="" caption="Photo by Bram. on Unsplash" width="600px" >}}
 
 DAAD is the largest scholarship provider for international students in Germany. Their programs support master's and postgraduate studies.
 
@@ -39,7 +39,7 @@ They want to see why you chose your program, how it fits your past work, and wha
 
 ## Deutschlandstipendium: simple, stable, and merit-based
 
-{{< imagecaption image="/images/scholarships-germany-2026/2.jpg" alt="Description" caption="Photo by micheile henderson on Unsplash" width="600px" >}}
+{{< imagecaption image="/images/scholarships-germany-2026/2.jpg" alt="" caption="Photo by micheile henderson on Unsplash" width="600px" >}}
 
 The Deutschlandstipendium pays 300 euros each month.
 
@@ -54,7 +54,7 @@ Each university sets its own rules for the selection process, so it is essential
 
 ## State scholarships: regional programs that many students overlook
 
-{{< imagecaption image="/images/scholarships-germany-2026/3.jpg" alt="Description" caption="Photo by Maheshkumar Painam on Unsplash" width="600px" >}}
+{{< imagecaption image="/images/scholarships-germany-2026/3.jpg" alt="" caption="Photo by Maheshkumar Painam on Unsplash" width="600px" >}}
 
 Some states in Germany run their own scholarship schemes.
 
@@ -72,7 +72,7 @@ They are worth checking if you already know where you want to live and study.
 
 ## English-taught programs and language requirements
 
-{{< imagecaption image="/images/scholarships-germany-2026/4.jpg" alt="Description" caption="Photo by freestocks on Unsplash" width="600px" >}}
+{{< imagecaption image="/images/scholarships-germany-2026/4.jpg" alt="" caption="Photo by freestocks on Unsplash" width="600px" >}}
 
 Many scholarships do not require proficiency in the German language if your program is taught in English.
 
@@ -86,7 +86,7 @@ Basic German may be helpful, but it is rarely a deciding factor for an English-t
 
 ## Scholarship deadlines follow a different clock
 
-{{< imagecaption image="/images/scholarships-germany-2026/5.jpg" alt="Description" caption="Photo by Towfiqu barbhuiya on Unsplash" width="600px" >}}
+{{< imagecaption image="/images/scholarships-germany-2026/5.jpg" alt="" caption="Photo by Towfiqu barbhuiya on Unsplash" width="600px" >}}
 
 Scholarship applications almost never match university application timelines.
 
@@ -113,7 +113,7 @@ Talented students with clear goals and financial need can still access support.
 ---
 
 ## How Edvi helps you navigate all this  
-{{< imagecaption image="/images/scholarships-germany-2026/6.png" alt="Description" caption="Copyright: Edvi" width="600px" >}}
+{{< imagecaption image="/images/scholarships-germany-2026/6.png" alt="" caption="Copyright: Edvi" width="600px" >}}
 
 Edvi is designed specifically for the German application system:  
 - It gives you clear instructions instead of vague suggestions.  
